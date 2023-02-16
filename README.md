@@ -6,7 +6,10 @@
 ### Glad to see you here! &nbsp; 
 ![](https://visitor-badge.glitch.me/badge?page_id=hardikm9850)
 
-Android Engineer with 8+ years of experience in developing native android apps in B2B, B2C, Gaming, Banking and Ed-Tech domain. I love to explore new tech in Android and also contribute to Open Source. 
+**Talking about Professional journey:**
+
+
+I started my journey into software engineering from 2014. Since then I have developed native android apps in B2B, B2C, Gaming, Banking and Ed-Tech domain. Did few backend projects in Python. I love to explore new tech in Android and contribute to Open Source. 
 
 I am presently exploring the flutter world. <br> 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/24664153/197371602-12e2aa37-7a74-4d96-9512-b40ecb602232.gif" width="408" height="318" />
