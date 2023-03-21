@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="https://about.me/hardik9850/#/" target="_blank">Hardik Mehta</a>
+### Hi there, I'm <a href="https://hardikm9850.github.io/#/" target="_blank">Hardik Mehta</a>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hardik9850/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thatmrfbat/)
@@ -17,7 +17,7 @@ I am presently exploring the flutter world. <br>
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif" width="21" />&nbsp;&nbsp; I'm currently working at <a href="https://www.teachmint.com/" target="_blank">@Teachmint</a> as a Lead Mobile Engineer;
+- <img src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif" width="21" />&nbsp;&nbsp; I was working at <a href="https://www.teachmint.com/" target="_blank">@Teachmint</a> as a Lead Mobile Engineer; Presently looking for a new adventure 🌎
 - <img src="https://user-images.githubusercontent.com/24664153/197371702-48d39b1d-ffe0-42a8-b7b8-2f5a7ebe3927.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://user-images.githubusercontent.com/24664153/197371719-5a80165a-1722-4049-b273-18eb5ea0bd45.gif" width="21" />&nbsp;&nbsp; How to reach me: hardikm9850@gmail.com;
 
