@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thatmrfbat/)
 
 ### Glad to see you here! &nbsp; 
+[![Google DevLibrary](https://img.shields.io/badge/Google%20DevLibrary-Hardik%20Mehta-brightgreen?style=flat&logo=android)](https://devlibrary.withgoogle.com/authors/hardik9850) 
 ![](https://visitor-badge.glitch.me/badge?page_id=hardikm9850)
 
 **Talking about Professional journey:**
