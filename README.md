@@ -9,10 +9,12 @@
 
 **Talking about Professional journey:**
 
+Since 2014, I have embarked on a software engineering journey, immersing myself in various domains such as B2B, B2C, Gaming, Banking, and Ed-Tech, primarily focusing on native Android app development. Throughout this time, I have gained experience in developing robust applications for different industries. Additionally, I have also dabbled in Python backend projects.
 
-I started my journey into software engineering from 2014. Since then I have developed native android apps in B2B, B2C, Gaming, Banking and Ed-Tech domain. Did few backend projects in Python. I love to explore new tech in Android and contribute to Open Source. 
+Driven by my passion for continuous growth and innovation, I enjoy exploring new technologies in the Android ecosystem. I actively contribute to the Open Source community, striving to give back and collaborate with fellow developers. 
 
-I am presently exploring the flutter world. <br> 
+Currently, I am delving into the world of Flutter, broadening my skill set and expanding my horizons in mobile app development.
+<br> 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/24664153/197371602-12e2aa37-7a74-4d96-9512-b40ecb602232.gif" width="408" height="318" />
  
 
