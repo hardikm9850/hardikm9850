@@ -20,7 +20,7 @@ Currently, I am delving into the world of Flutter, broadening my skill set and e
 
 **Talking about Personal Stuffs:**
 
-- <img src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif" width="21" />&nbsp;&nbsp; I was working at <a href="https://www.teachmint.com/" target="_blank">@Teachmint</a> as a Lead Mobile Engineer; Presently looking for a new adventure 🌎
+- <img src="https://user-images.githubusercontent.com/24664153/197371678-9a748b89-0ae7-4446-841e-18396e7bc0ab.gif" width="21" />&nbsp;&nbsp; I am working at <a href="https://www.epam.com/" target="_blank">@Epam</a> as a Lead Mobile Engineer;
 - <img src="https://user-images.githubusercontent.com/24664153/197371702-48d39b1d-ffe0-42a8-b7b8-2f5a7ebe3927.gif" width="21" />&nbsp;&nbsp; Ask me about anything, I am happy to help;
 - <img src="https://user-images.githubusercontent.com/24664153/197371719-5a80165a-1722-4049-b273-18eb5ea0bd45.gif" width="21" />&nbsp;&nbsp; How to reach me: hardikm9850@gmail.com;
 
