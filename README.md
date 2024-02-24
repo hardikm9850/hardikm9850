@@ -1,9 +1,8 @@
 ### Hi there, I'm <a href="https://hardikm9850.github.io/#/" target="_blank">Hardik Mehta</a>
+### Glad to see you here! &nbsp; 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hardik9850/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thatmrfbat/)
-
-### Glad to see you here! &nbsp; 
 [![Google DevLibrary](https://img.shields.io/badge/Google%20DevLibrary-Hardik%20Mehta-brightgreen?style=flat&logo=android)](https://devlibrary.withgoogle.com/authors/hardik9850) 
 ![](https://visitor-badge.glitch.me/badge?page_id=hardikm9850)
 
@@ -11,9 +10,17 @@
 
 Since 2014, I have embarked on a software engineering journey, immersing myself in various domains such as B2B, B2C, Gaming, Banking, and Ed-Tech, primarily focusing on native Android app development. Throughout this time, I have gained experience in developing robust applications for different industries. Additionally, I have also dabbled in Python backend projects.
 
-Driven by my passion for continuous growth and innovation, I enjoy exploring new technologies in the Android ecosystem. I actively contribute to the Open Source community, striving to give back and collaborate with fellow developers. 
+Passionate about learning and innovating in the Android ecosystem, I actively contribute to Open Source projects, aiming to collaborate with fellow developers and give back to the community.
 
-Currently, I am delving into the world of Flutter, broadening my skill set and expanding my horizons in mobile app development.
+I am exploring Go Language with mentorship from [Ishan Khare](https://github.com/ishankhare07), aiming to enhance my backend development skills and become a full-stack mobile developer and eventually evolve into a proficient technical architect. 
+
+**Gratitude[કૃતજ્ઞતા]**
+
+I've been deeply inspired by the engineering managers I had the opportunity to collaborate with, even if only briefly.🙏🏼
+
+[Harshal Bhakta](https://www.linkedin.com/in/harshal-bhakta)
+[Mithlesh Said](https://www.linkedin.com/in/mithsaid)
+[Deepak](https://www.linkedin.com/in/vdeepakraaj)
 <br> 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/24664153/197371602-12e2aa37-7a74-4d96-9512-b40ecb602232.gif" width="408" height="318" />
  
