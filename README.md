@@ -12,7 +12,7 @@ Since 2014, I have embarked on a software engineering journey, immersing myself 
 
 Passionate about learning and innovating in the Android ecosystem, I actively contribute to Open Source projects, aiming to collaborate with fellow developers and give back to the community.
 
-I am exploring Golang with mentorship from [Ishan Khare](https://github.com/ishankhare07), aiming to enhance my backend development skills and become a full-stack mobile developer and eventually evolve into a proficient technical architect. 
+I am exploring Golang with mentorship from [Ishan Khare](https://github.com/ishankhare07) and [Abhishek Bodhekar]( @abhishekbodhekar), aiming to enhance my backend development skills and become a full-stack mobile developer and eventually evolve into a proficient technical architect. 
 
 **Gratitude[કૃતજ્ઞતા]**
 
